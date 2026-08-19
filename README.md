@@ -9,7 +9,7 @@
 | 2420030311 |
 
 ## Supervisor
-Supervisor Name
+Dr. G. Siva Sree
 
 ## Project Abstract
 
@@ -39,23 +39,4 @@ startups monitor their performance and make data-driven decisions.
 - Pandas
 - Data Analysis
 
-## Setup Instructions
 
-1. Clone the repository.
-2. Navigate to the project folder.
-3. Install the required Python libraries.
-4. Add the dataset to the data folder.
-5. Run the preprocessing and KPI calculation programs.
-6. Open the Power BI dashboard file.
-
-## Execution Instructions
-
-Run the Python files from the src folder:
-
-python data_preprocessing.py
-
-python kpi_calculation.py
-
-## Current Phase Status
-
-Phase 1 - Project Planning and Initial Setup Completed
